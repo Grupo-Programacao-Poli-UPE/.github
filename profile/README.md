@@ -1,2 +1,5 @@
-# .github
-Equipe para competições de programação de Ecomp - UPE.
+# Grupo de Programação POLI - UPE
+Organização da equipe de Engenharia da Computação (UPE) voltada para competições.
+
+
+
